@@ -5,7 +5,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="horizontal"
-    tools:context="com.github.adahra.cobarxandroid.MainActivity">
+    tools:context=".activity.MainActivity">
 
-    
+    <Button
+        android:id="@+id/button_run_scheduler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_run_scheduler"/>
+
+    <Button
+        android:id="@+id/button_rx_android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_rx_android"/>
 </LinearLayout>
