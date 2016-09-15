@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CobaRxAndroid</string>
+    <string name="button_run_scheduler">Run Schedulers Example</string>
+</resources>
