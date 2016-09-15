@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">CobaRxAndroid</string>
     <string name="button_run_scheduler">Run Schedulers Example</string>
+    <string name="button_rx_android">RX Android</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
 </resources>
